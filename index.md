@@ -36,8 +36,8 @@ Mixed-Signal Circuits Design, Bioelectronics and Biosensors, Neuromorphic Comput
 
 ---
 
-- Alfio Di Mauro, Arpan Suravi Prasad, **Zhikai Huang**, Matteo Spallanzani, Francesco Conti, Luca Benini, “SNE: an Energy-Proportional Digital Accelerator for Sparse Event-Based Convolutions”, Design Automation and Test in Europe Conference (DATE), 2022
-- **Zhikai Huang**, Hesam Omdeh Ghiasi, Taekwang Jang, “A Continuous-Time Input Pipelined SAR ADC With Predictive Offset Generation”, In preparation
+- Alfio Di Mauro, Arpan Suravi Prasad, **Zhikai Huang**, Matteo Spallanzani, Francesco Conti, Luca Benini, “*SNE: an Energy-Proportional Digital Accelerator for Sparse Event-Based Convolutions*”, Design Automation and Test in Europe Conference (DATE), 2022
+- **Zhikai Huang**, Hesam Omdeh Ghiasi, Taekwang Jang, “*A Continuous-Time Input Pipelined SAR ADC With Predictive Offset Generation*”, In preparation
 
 
 &nbsp;
