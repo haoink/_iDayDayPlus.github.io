@@ -28,7 +28,7 @@ Mixed-Signal Circuits Design, Bioelectronics and Biosensors, Neuromorphic Comput
 
 - **McGill University**, Montreal Canada, 2018.06-208.09
   - MITACS Visiting Scholar
-  - Thesis: *Topics: Measurement of Thermal Noise Floor in Nitrogen Vacancy Centers*
+  - Topics: *Measurement of Thermal Noise Floor in Nitrogen Vacancy Centers*
 
 &nbsp;
 
