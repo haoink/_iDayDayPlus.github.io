@@ -1,9 +1,13 @@
-
+### Contacts
 *E-mail: hzhikai97@gmail.com / Phone: +86 13335427158*
+
+---
 
 ### Research Interests
 
 Mixed-Signal Circuits Design, Bioelectronics and Biosensors, Neuromorphic Computing, etc.
+
+---
 
 ### Education
 
@@ -19,6 +23,7 @@ Mixed-Signal Circuits Design, Bioelectronics and Biosensors, Neuromorphic Comput
   - Bachelor of Science in Electronics Engineering, GPA: 89.5/100
   - Thesis: *Topics: Measurement of Thermal Noise Floor in Nitrogen Vacancy Centers*
 
+---
 
 ### Publications
 
