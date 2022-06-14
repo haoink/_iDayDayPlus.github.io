@@ -23,18 +23,26 @@ Mixed-Signal Circuits Design, Bioelectronics and Biosensors, Neuromorphic Comput
   - Thesis: *Digital Back-End Design of a  Battery State-of-Charge Estimation Algorithm Without Current Detection*
 
 - McGill University, Montreal Canada, 2018.06-208.09
-  - Bachelor of Science in Electronics Engineering, GPA: 89.5/100
+  - 
   - Thesis: *Topics: Measurement of Thermal Noise Floor in Nitrogen Vacancy Centers*
 
----
+&nbsp;
 
 ### Publications
 
+&nbsp;
+
 ### Research Experience
+
+&nbsp;
 
 ### Skills
 
+&nbsp;
+
 ### Awards
+
+&nbsp;
 
 *last update: 200-06-14*
 
