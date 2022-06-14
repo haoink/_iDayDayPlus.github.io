@@ -1,4 +1,6 @@
-### Curriculum Viate (CV)
+### Contacts
+
+---
 
 *E-mail: hzhikai97@gmail.com / Phone: +86 13335427158*
 
@@ -6,6 +8,7 @@
  
 ### Research Interests
 
+---
 
 Mixed-Signal Circuits Design, Bioelectronics and Biosensors, Neuromorphic Computing, etc.
 
@@ -13,6 +16,7 @@ Mixed-Signal Circuits Design, Bioelectronics and Biosensors, Neuromorphic Comput
 
 ### Education
 
+---
 
 - ETH Zurich, Zurich Switzerland, 2019-2022
   - Master of Science in Biomedical Engineering, GPA: 5.4/6.0 
@@ -30,6 +34,8 @@ Mixed-Signal Circuits Design, Bioelectronics and Biosensors, Neuromorphic Comput
 
 ### Publications
 
+---
+
 - Alfio Di Mauro, Arpan Suravi Prasad, **Zhikai Huang**, Matteo Spallanzani, Francesco Conti, Luca Benini, “SNE: an Energy-Proportional Digital Accelerator for Sparse Event-Based Convolutions”, Design Automation and Test in Europe Conference (DATE), 2022
 - **Zhikai Huang**, Hesam Omdeh Ghiasi, Taekwang Jang, “A Continuous-Time Input Pipelined SAR ADC With Predictive Offset Generation”, In preparation
 
@@ -37,6 +43,8 @@ Mixed-Signal Circuits Design, Bioelectronics and Biosensors, Neuromorphic Comput
 &nbsp;
 
 ### Research Experience
+
+---
 
 Integrated Systems Laboratory, ETH Zürich | Advisor: Prof. Taekwang Jang	Zürich, Switzerland | 2021.11-2022.05
 - *A Continuous-Time Input Pipelined SAR ADC With Predictive Offset Generation*
@@ -73,6 +81,8 @@ Sensors Research Group, ETH Zurich | Advisor: Prof. Tobi Delbruck | 2021.03-2021
 
 ### Skills
 
+---
+
 - Programming: Verilog (2+ years), System Verilog (2+ years), PyTorch (2+ years), MATLAB (6+ years)
 - Language: English - Full professional proficiency | Chinese - Native
 - Experiments: oscilloscope, vector analyzer, soldering, probe station, PCB design
@@ -80,6 +90,8 @@ Sensors Research Group, ETH Zurich | Advisor: Prof. Tobi Delbruck | 2021.03-2021
 &nbsp;
 
 ### Awards
+
+---
 
 - China Goverment Scholarship for Overseas Visiting (MITACS & CSC, 2018)
 - Samsung Scholarship (Xi’an Jiaotong University, 2018)
