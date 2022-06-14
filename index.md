@@ -46,7 +46,7 @@ Mixed-Signal Circuits Design, Bioelectronics and Biosensors, Neuromorphic Comput
 
 ---
 
-Integrated Systems Laboratory, ETH Zürich | Advisor: Prof. Taekwang Jang	Zürich, Switzerland | 2021.11-2022.05
+Integrated Systems Laboratory, ETH Zürich | Advisor: Prof. Taekwang Jang| 2021.11-2022.05
 - **A Continuous-Time Input Pipelined SAR ADC With Predictive Offset Generation**
   - Designed a continuous-time input pipelined SAR ADC with reduced input capacitance, achieving 1.439 uW with 12.83 bits ENOB at 40kSPS, FoMw=4.95fJ/step and --FoMs=171.4dB
   -  Innovation 1: Analog prediction based on signal first and second order derivatives to limit residue signal swing  
