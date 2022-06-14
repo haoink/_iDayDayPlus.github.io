@@ -65,7 +65,7 @@ Integrated Systems Laboratory, ETH Zürich | Advisor: Prof. Taekwang Jang | 2021
   - Designed the auxiliary path for the chopper amplifier that achieves 40.7X input impedance boosting
 
 Digital Circuits and Systems Lab, ETH Zurich | Advisor: Prof. Luca Benini | 2020.03-2020.6
-- **Spiking Neural Network-based 3-DoF Pose Estimation for Event-based SOC**         
+- **Spiking Neural Network-based 3-DoF Pose Estimation for Event-based SoC**         
   - Implemented a convolutional spiking neural network capable of regressing an event camera’s 3 DoF angular velocity from its raw output stream, enabling ego-motion estimation
   - Proposed novel time-averaging regularization for neural network to improve the estimation accuracy
   - Quantized the network within 4 bits with less than 1% performance degradation so that it is deployable on the chip designed in the group
