@@ -108,5 +108,10 @@ Prof. Dr. Luca Benini, Dept. of Information Technology and Electrical Engineerin
 
 Prof. Dr. Tobi Delbruck, Institute of Neuroinformatics, ETH Zurich and University of Zurich
 
+
+&nbsp;
+
+&nbsp;
+
 *last update: 2022-06-14*
 
