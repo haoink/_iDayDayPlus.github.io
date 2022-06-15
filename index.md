@@ -100,5 +100,13 @@ Sensors Research Group, ETH Zurich | Advisor: Prof. Tobi Delbruck | 2021.03-2021
 
 &nbsp;
 
+### Letter of Recommendation
+
+---
+
+Prof. Dr. Luca Benini, Dept. of Information Technology and Electrical Engineering, ETH Zurich
+
+Prof. Dr. Tobi Delbruck, Institute of Neuroinformatics, ETH Zurich and University of Zurich
+
 *last update: 2022-06-14*
 
